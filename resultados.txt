@@ -1,0 +1,5 @@
+Gloria: [10.0, 8.0, 8.0, 9.0] -> Promedio: 8.75
+Elizabeth: [8.0, 8.0, 9.0, 10.0] -> Promedio: 8.75
+Carlos: [8.0, 8.0, 8.0] -> Promedio: 8.00
+
+El mejor estudiante es: Gloria con promedio 8.75
